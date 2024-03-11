@@ -1,6 +1,6 @@
 # Welcome to my GitHub Repository!
 
-Hello there! My name is Ritik Padhy, and I'm delighted to have you here on my GitHub account. As a passionate Electronics and Communications student pursuing my bachelor's degree at MIT, Manipal, I'm constantly exploring various fascinating projects and expanding my knowledge in the field. I'm particularly enthusiastic about the realm of Artificial Intelligence and Full Stack Web Development, but I'm also open to exploring other exciting domains.
+Hello there! My name is Ritik Padhy, and I'm delighted to have you here on my GitHub account. As a passionate Electronics and Communications student with a minor specialization in Data Science pursuing my bachelor's degree at MIT, Manipal, I'm constantly exploring various fascinating projects and expanding my knowledge in different fields. I'm particularly enthusiastic about the realm of Artificial Intelligence and Full Stack Web Development, but I'm also open to exploring other exciting domains.
 
 ## About Me
 
@@ -19,4 +19,13 @@ LinkedIn: [(https://www.linkedin.com/in/ritikp30/)](https://www.linkedin.com/in/
 Thank you for visiting my GitHub repository. Have a great day!
 
 ## Toolbox:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="CSS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="CSS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="CSS" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="CSS" width="50" height="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="CSS" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+<img src="https://www.sanity.io/static/58a7a00fb0013ec55b4baf14b1792d13/446e3/sanity-logo.svg" alt="Sanity.io" width="50" height="50"/>
+
