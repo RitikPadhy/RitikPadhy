@@ -15,4 +15,4 @@ LinkedIn: https://www.linkedin.com/in/lakksh-tyagi-9297b6230/
 Thank you for visiting my GitHub repository. Have a great day!
 -->
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="CSS" width="50" height="50"/>
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="CSS" width="50" height="50"/>
