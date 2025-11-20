@@ -1,4 +1,4 @@
-# Welcome to my GitHub Repository!
+## Welcome to my GitHub Repository!
 
 Hello! I'm **Ritik Padhy**, and welcome to my GitHub. I hold a background in Electronics and Communications Engineering with a minor in Data Science from MIT Manipal, and I’m deeply passionate about building data-driven and intelligent systems. This space reflects my journey across **data analysis, machine learning, AI-driven automation, cloud engineering, and full-stack development**, where I explore how analytical thinking and engineering come together to create impactful solutions. I enjoy working on end-to-end projects—from extracting and analyzing data to developing predictive models, designing scalable backend systems, and integrating modern AI tools to automate real-world workflows. My GitHub is where I learn, experiment, and share projects that showcase my curiosity, technical growth, and interest in applying data and AI to meaningful problems.
 
