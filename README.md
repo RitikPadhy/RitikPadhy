@@ -12,8 +12,9 @@ I'm always open to working with others who share an interest in **data, analytic
 
 Apart from GitHub, you can find me on various other platforms. Feel free to connect with me on:
 
-LinkedIn: [(Linkedin)](https://www.linkedin.com/in/ritikp30/)
-Portfolio: [(https://www.linkedin.com/in/ritikp30/)](https://www.linkedin.com/in/ritikp30/)
+LinkedIn: [(https://www.linkedin.com/in/ritikp30/)](https://www.linkedin.com/in/ritikp30/)
+
+Portfolio: [(https://personal-portfolio-virid-nine-10.vercel.app/)](https://personal-portfolio-virid-nine-10.vercel.app/)
 
 Thank you for visiting my GitHub repository. Have a great day!
 
