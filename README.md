@@ -7,7 +7,6 @@ I use GitHub as a space to build, refine, and share the projects that shape my j
 
 ## Collaboration
 I’m always open to collaborating on **data analysis, machine learning, cloud engineering, automation, or AI-driven projects**. If you have an idea, find one of my projects interesting, or want to build something together, feel free to reach out.  I’m always happy to connect, exchange ideas, and contribute to meaningful work.
-📧 **Email:** ritikp2002@gmail.com  
 
 
 ## Let's Connect!
